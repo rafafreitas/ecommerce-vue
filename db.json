@@ -24,14 +24,14 @@
   {
     "code": 4,
     "beforePrice": 29.99,
-    "newPrice": 19.99,
+    "newPrice": 3199.99,
     "description": "Carregador Metálico",
     "image": "cabo.png"
   },
   {
     "code": 4,
     "beforePrice": 3349.99,
-    "newPrice": 3199.99,
+    "newPrice": 19.99,
     "description": "iPad Air 2 (A1567) 16GB - 4G Cinza Espacial",
     "image": "ipad2.png"
   }
