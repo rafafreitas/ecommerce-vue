@@ -1,5 +1,5 @@
-# ecommerce-vue
-> A Vue.js project
+# Json-Server
+> A Json-Server project
 
 ## Build Setup
 
