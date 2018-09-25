@@ -5,6 +5,7 @@
     "beforePrice": 1999.99,
     "newPrice": 1799.99,
     "description": "Galaxy Note9 - 4G Preto",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "image": "note9.png"
   },
   {
@@ -12,6 +13,7 @@
     "beforePrice": 2950.99,
     "newPrice": 1729.99,
     "description": "Samsung Galaxy S9+ - 4G Cinza-Titânio",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "image": "s9preto.png"
   },
   {
@@ -19,6 +21,7 @@
     "beforePrice": 1799.99,
     "newPrice": 1679.99,
     "description": "Galaxy S7 Edge 128GB - 4G Black Piano",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "image": "s7preto.png"
   },
   {
@@ -26,6 +29,7 @@
     "beforePrice": 29.99,
     "newPrice": 19.99,
     "description": "Carregador Metálico",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "image": "cabo.png"
   },
   {
@@ -33,6 +37,7 @@
     "beforePrice": 3349.99,
     "newPrice": 3199.99,
     "description": "iPad Air 2 (A1567) 16GB - 4G Cinza Espacial",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "image": "ipad2.png"
   }
 ]
