@@ -1,44 +1,86 @@
 {
-"products": [
-  {
-    "code": 1,
-    "beforePrice": 1999.99,
-    "newPrice": 1799.99,
-    "description": "Galaxy Note9 - 4G Preto",
-    "details": "4GB RAM 64GB ROM Câmeras Traseiras Duplas de 12.0MP + 5.0MP Sensor de Impressão Digital",
-    "image": "note9.png"
-  },
-  {
-    "code": 2,
-    "beforePrice": 2950.99,
-    "newPrice": 1729.99,
-    "description": "Samsung Galaxy S9+ - 4G Cinza-Titânio",
-    "details": "4GB/RAM 32GB/ROM Câmera Traseira de 15.0MP Sensor de Impressão Digital",
-    "image": "s9preto.png"
-  },
-  {
-    "code": 3,
-    "beforePrice": 1799.99,
-    "newPrice": 1679.99,
-    "description": "Galaxy S7 Edge 128GB - 4G Black Piano",
-    "details": "4GB RAM 64GB ROM Câmeras Traseiras Duplas de 12.0MP + 5.0MP Sensor de Impressão Digital",
-    "image": "s7preto.png"
-  },
-  {
-    "code": 4,
-    "beforePrice": 29.99,
-    "newPrice": 19.99,
-    "description": "Carregador Metálico",
-    "details": "4GB RAM 64GB ROM Câmeras Traseiras Duplas de 12.0MP + 5.0MP Sensor de Impressão Digital",
-    "image": "cabo.png"
-  },
-  {
-    "code": 5,
-    "beforePrice": 3349.99,
-    "newPrice": 3199.99,
-    "description": "iPad Air 2 (A1567) 16GB - 4G Cinza Espacial",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor adipiscing.",
-    "image": "ipad2.png"
+  "products": [
+    {
+      "code": 1,
+      "beforePrice": 1999.99,
+      "newPrice": 1799.99,
+      "description": "Galaxy Note9 - 4G Preto",
+      "details": "4GB RAM 64GB ROM Câmeras Traseiras Duplas de 12.0MP + 5.0MP Sensor de Impressão Digital",
+      "image": "note9.png"
+    },
+    {
+      "code": 2,
+      "beforePrice": 2950.99,
+      "newPrice": 1729.99,
+      "description": "Samsung Galaxy S9+ - 4G Cinza-Titânio",
+      "details": "4GB/RAM 32GB/ROM Câmera Traseira de 15.0MP Sensor de Impressão Digital",
+      "image": "s9preto.png"
+    },
+    {
+      "code": 3,
+      "beforePrice": 1799.99,
+      "newPrice": 1679.99,
+      "description": "Galaxy S7 Edge 128GB - 4G Black Piano",
+      "details": "4GB RAM 64GB ROM Câmeras Traseiras Duplas de 12.0MP + 5.0MP Sensor de Impressão Digital",
+      "image": "s7preto.png"
+    },
+    {
+      "code": 4,
+      "beforePrice": 29.99,
+      "newPrice": 19.99,
+      "description": "Carregador Metálico",
+      "details": "4GB RAM 64GB ROM Câmeras Traseiras Duplas de 12.0MP + 5.0MP Sensor de Impressão Digital",
+      "image": "cabo.png"
+    },
+    {
+      "code": 5,
+      "beforePrice": 3349.99,
+      "newPrice": 3199.99,
+      "description": "iPad Air 2 (A1567) 16GB - 4G Cinza Espacial",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor adipiscing.",
+      "image": "ipad2.png"
+    }
+  ],
+  "ranking": {
+    "position": {
+      "mensal": {
+        ""place"": 3, 
+        ""score"": 28.500
+      },
+      "trimestral": {
+        ""place"": 3, 
+        ""score"": 28.500
+      },
+      "anual": {
+        ""place"": 3, 
+        ""score"": 28.500
+      }
+    },
+    "list": {
+      "mensal": [
+        {"userId": 1, "place": 1, "name": "João Fernandes", "score": 28.300}
+        {"userId": 2, "place": 2, "name": "Maria do Rosário", "score": 26.300}
+        {"userId": 3, "place": 3, "name": "Ana Roberta da Silva", "score": 25.300}
+        {"userId": 4, "place": 4, "name": "Severina Ribeiro", "score": 24.300}
+        {"userId": 5, "place": 5, "name": "Kauã da Silva", "score": 23.300}
+        {"userId": 6, "place": 6, "name": "Camilla Meireles Soares Dias", "score": 22.300}
+      ],
+      "trimestral": [
+        {"userId": 1, "place": 1, "name": "João Fernandes", "score": 28.300}
+        {"userId": 2, "place": 2, "name": "Maria do Rosário", "score": 26.300}
+        {"userId": 3, "place": 3, "name": "Ana Roberta da Silva", "score": 25.300}
+        {"userId": 4, "place": 4, "name": "Severina Ribeiro", "score": 24.300}
+        {"userId": 5, "place": 5, "name": "Kauã da Silva", "score": 23.300}
+        {"userId": 6, "place": 6, "name": "Camilla Meireles Soares Dias", "score": 22.300}
+      ],
+      "anual": [
+        {"userId": 1, "place": 1, "name": "João Fernandes", "score": 28.300}
+        {"userId": 2, "place": 2, "name": "Maria do Rosário", "score": 26.300}
+        {"userId": 3, "place": 3, "name": "Ana Roberta da Silva", "score": 25.300}
+        {"userId": 4, "place": 4, "name": "Severina Ribeiro", "score": 24.300}
+        {"userId": 5, "place": 5, "name": "Kauã da Silva", "score": 23.300}
+        {"userId": 6, "place": 6, "name": "Camilla Meireles Soares Dias", "score": 22.300}
+      ],
+    }
   }
-]
 }
