@@ -45,41 +45,41 @@
     "position": {
       "mensal": {
         "place": 3, 
-        "score": 28500
+        "score": 15300
       },
       "trimestral": {
-        "place": 3, 
-        "score": 28500
+        "place": 5, 
+        "score": 25200
       },
       "anual": {
-        "place": 3, 
-        "score": 28500
+        "place": 10, 
+        "score": 42500
       }
     },
     "list": {
       "mensal": [
-        {"userId": 1, "place": 1, "name": "João Fernandes", "score": 28300},
-        {"userId": 2, "place": 2, "name": "Maria do Rosário", "score": 26300},
-        {"userId": 96359, "place": 3, "name": "Kauê Severino dos Santos Neto da Silva", "score": 25300},
-        {"userId": 4, "place": 4, "name": "Severina Ribeiro", "score": 24300},
-        {"userId": 5, "place": 5, "name": "Kauã da Silva", "score": 23300},
-        {"userId": 6, "place": 6, "name": "Camilla Meireles Soares Dias", "score": 22300}
+        {"userId": 1, "place": 1, "name": "João Fernandes", "score": 18300},
+        {"userId": 2, "place": 2, "name": "Maria do Rosário", "score": 16300},
+        {"userId": 96359, "place": 3, "name": "Kauê Eufrosino Lima", "score": 15300},
+        {"userId": 4, "place": 4, "name": "Severina Ribeiro", "score": 14300},
+        {"userId": 5, "place": 5, "name": "Ricardo da Silva", "score": 13300},
+        {"userId": 6, "place": 6, "name": "Camilla Meireles Soares Dias", "score": 12300}
       ],
       "trimestral": [
         {"userId": 1, "place": 1, "name": "João Fernandes", "score": 28300},
-        {"userId": 2, "place": 2, "name": "Maria do Rosário", "score": 26300},
-        {"userId": 3, "place": 3, "name": "Ana Roberta da Silva", "score": 25300},
-        {"userId": 4, "place": 4, "name": "Severina Ribeiro", "score": 24300},
-        {"userId": 5, "place": 5, "name": "Kauã da Silva", "score": 23300},
+        {"userId": 2, "place": 2, "name": "Maria do Rosário", "score": 27300},
+        {"userId": 3, "place": 3, "name": "Ana Roberta da Silva", "score": 26300},
+        {"userId": 4, "place": 4, "name": "Severina Ribeiro", "score": 25300},
+        {"userId": 96359, "place": 5, "name": "Kauê Eufrosino Lima", "score": 25200},
         {"userId": 6, "place": 6, "name": "Camilla Meireles Soares Dias", "score": 22300}
       ],
       "anual": [
-        {"userId": 1, "place": 1, "name": "João Fernandes", "score": 28300},
-        {"userId": 2, "place": 2, "name": "Maria do Rosário", "score": 26300},
-        {"userId": 3, "place": 3, "name": "Ana Roberta da Silva", "score": 25300},
-        {"userId": 4, "place": 4, "name": "Severina Ribeiro", "score": 24300},
-        {"userId": 5, "place": 5, "name": "Kauã da Silva", "score": 23300},
-        {"userId": 6, "place": 6, "name": "Camilla Meireles Soares Dias", "score": 22300}
+        {"userId": 1, "place": 1, "name": "João Fernandes", "score": 47800},
+        {"userId": 2, "place": 2, "name": "Maria do Rosário", "score": 45300},
+        {"userId": 3, "place": 3, "name": "Ana Roberta da Silva", "score": 44800},
+        {"userId": 4, "place": 4, "name": "Severina Ribeiro", "score": 44500},
+        {"userId": 5, "place": 5, "name": "Ricardo da Silva", "score": 44000},
+        {"userId": 6, "place": 6, "name": "Camilla Meireles Soares Dias", "score": 43800}
       ]
     }
   }
