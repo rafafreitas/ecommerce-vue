@@ -44,8 +44,8 @@
   "ranking": {
     "position": {
       "mensal": {
-        "place": 3, 
-        "score": 15300
+        "place": null, 
+        "score": null
       },
       "trimestral": {
         "place": 5, 
@@ -58,12 +58,7 @@
     },
     "list": {
       "mensal": [
-        {"userId": 1, "place": 1, "name": "João Fernandes", "score": 18300},
-        {"userId": 2, "place": 2, "name": "Maria do Rosário", "score": 16300},
-        {"userId": 96359, "place": 3, "name": "Kauê Eufrosino Lima", "score": 15300},
-        {"userId": 4, "place": 4, "name": "Severina Ribeiro", "score": 14300},
-        {"userId": 5, "place": 5, "name": "Ricardo da Silva", "score": 13300},
-        {"userId": 6, "place": 6, "name": "Camilla Meireles Soares Dias", "score": 12300}
+        
       ],
       "trimestral": [
         {"userId": 1, "place": 1, "name": "João Fernandes", "score": 28300},
