@@ -111,12 +111,7 @@
             "name": "Jose Carlos Juniors",
             "active": true
           },
-          "medicalRecord": {
-            "startDate": 1575802800000,
-            "endDate": 1575804600000
-          },
-          "startDate": 1575802800000,
-          "endDate": 1575804600000
+          "appointment": 1575802800000
         }
       },
       {
@@ -125,12 +120,7 @@
             "name": "Ricardo Oliveira",
             "active": true
           },
-          "medicalRecord": {
-            "startDate": 1575818100000,
-            "endDate": 1575819900000
-          },
-          "startDate": 1575818100000,
-          "endDate": 1575819900000
+          "appointment": 1575818100000
         }
       },
       {
@@ -139,12 +129,7 @@
             "name": "Ricardo Oliveira",
             "active": true
           },
-          "medicalRecord": {
-            "startDate": 1575903600000,
-            "endDate": 1575906300000
-          },
-          "startDate": 1575903600000,
-          "endDate": 1575906300000
+          "appointment": 1575903600000
         }
       },
       {
@@ -153,12 +138,7 @@
             "name": "Ricardo Oliveira",
             "active": true
           },
-          "medicalRecord": {
-            "startDate": 1576079100000,
-            "endDate": 1576082700000
-          },
-          "startDate": 1576079100000,
-          "endDate": 1576082700000
+          "appointment": 1576079100000
         }
       }
     ]
