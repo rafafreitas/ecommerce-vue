@@ -78,8 +78,10 @@
       ]
     }
   },
-  "conditions": {
-    "message": "1-Havendo saldo devedor de cheque especial, juros/IOF serão calculados pró-rata e debitados na conta corrente.\n2-Havendo cesta de tarifas cadastrada, será calculada pró-rata e debitada em conta corrente.\n3-Havendo empréstimo pessoal, parcelamento de cheque especial ou outro produto do Banco Midway com débito em conta, será calculado a valor presente e demonstrado para escolha do cliente: debitar em conta corrente total da dívida ou gerar boleto para pagamento das parcelas a vencer.\n4-Após cálculo do saldo final da conta corrente e aceitação do cliente, a conta será bloqueada temporariamente até o dia seguinte para liquidação do saldo (saque do valor se saldo credor ou depósito se saldo devedor).\n5- Não havendo liquidação do saldo até o dia seguinte, a conta será desbloqueada e voltará a movimentação normal.\n6-Após liquidação do saldo no dia seguinte, serão cancelados automaticamente o cheque especial, conta remunerada, débitos em conta cadastrados, pagamentos agendados, limite de crédito do cheque especial e cartão de débito.\n7- Havendo contestação em aberto, a conta deverá aguardar finalização para solicitação do encerramento\n"
+  "fatura": {
+    "linhaDigitavel": "84620000004-6 09860296202-3 003152323000-9 00372753505-3",
+    "dataVencimento": "2020-03-30",
+    "valorTotal": 200.10
   },
   "today": {
     "visits": [
