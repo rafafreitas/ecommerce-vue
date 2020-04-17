@@ -97,43 +97,6 @@
       }
     ]
   },
-  "agencias": [
-    {
-      "name": "Correspondente 1",
-      "cep": "00000000",
-      "address": "Rua vicente, n.10",
-      "uf": "SP",
-      "city": "São Paulo"
-    },
-    {
-      "name": "Correspondente 2",
-      "cep": "00000000",
-      "address": "Rua vicente, n.10",
-      "uf": "SP",
-      "city": "São Paulo"
-    },
-    {
-      "name": "Correspondente 3",
-      "cep": "00000000",
-      "address": "Rua vicente, n.10",
-      "uf": "SP",
-      "city": "São Paulo"
-    },
-    {
-      "name": "Correspondente 4",
-      "cep": "00000000",
-      "address": "Rua vicente, n.10",
-      "uf": "SP",
-      "city": "São Paulo"
-    },
-    {
-      "name": "Correspondente 5",
-      "cep": "00000000",
-      "address": "Rua vicente, n.10",
-      "uf": "SP",
-      "city": "São Paulo"
-    }
-  ],
   "today": {
     "visits": [
       {
