@@ -78,6 +78,25 @@
       ]
     }
   },
+  "corban": {
+    "cep": "12345000",
+    "corban": [
+      {
+        "name": "Correspondente 1",
+        "cep": "00000000",
+        "address": "Rua vicente, n.10",
+        "uf": "SP",
+        "city": "São Paulo"
+      },
+      {
+        "name": "Correspondente 2",
+        "cep": "00000000",
+        "address": "Rua vicente, n.10",
+        "uf": "SP",
+        "city": "São Paulo"
+      }
+    ]
+  },
   "agencias": [
     {
       "name": "Correspondente 1",
